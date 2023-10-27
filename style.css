@@ -1,0 +1,31 @@
+.container {
+  min-height: 700px;
+  border-radius: 15px;
+  border: 1px solid;
+  dis
+}
+.heading {
+  text-align: center;
+}
+.paragraph {
+  text-align: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    margin-top: 2rem;
+}
+.image > img {
+  width: 500px;
+  border-radius: 15px;
+  /* padding: 2rem 2rem; */
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
