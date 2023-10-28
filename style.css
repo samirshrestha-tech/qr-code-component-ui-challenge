@@ -1,8 +1,13 @@
+.body {
+  background: hsl(212, 45%, 89%);
+}
+
 .container {
   min-height: 700px;
   border-radius: 15px;
   border: 1px solid;
-  dis
+  margin: 1rem 0;
+  background: ;
 }
 .heading {
   text-align: center;
@@ -10,11 +15,11 @@
 .paragraph {
   text-align: center;
 }
-.image{
-    display: flex;
-    justify-content: center;
-    border-radius: 15px;
-    margin-top: 2rem;
+.image {
+  display: flex;
+  justify-content: center;
+  border-radius: 15px;
+  margin-top: 2rem;
 }
 .image > img {
   width: 500px;
